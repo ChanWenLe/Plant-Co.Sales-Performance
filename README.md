@@ -21,11 +21,11 @@ Explore the interactive dashboard [Here](https://public.tableau.com/app/profile/
 
 ### Data Insights
 
-1. Yearly Trends: The total sales figures show a downward trend when comparing 2023 to 2022. In 2023, there was an overall sales loss of approximately USD 512,000, even after accounting for growth in other regions. Upon closer examination, China experienced the largest decline, with a reduction of around USD 760,000 in sales. This was followed by significant drops in Sweden (USD 240,000), France (USD 150,000), and Norway (USD 119,000).
+1. Yearly Trends: The total sales figures show a downward trend when comparing 2023 to 2022. In 2023, there was an overall sales loss of approximately USD 512,000 or 3.8%, even after accounting for growth in other regions. Upon closer examination, China experienced the largest decline, with a reduction of around USD 760,000 in sales. This was followed by significant drops in Sweden (USD 240,000), France (USD 150,000), and Norway (USD 119,000).
+   In contrast, Portugal saw the strongest growth in 2023, with an increase of USD 180,000 compared to 2022. Other countries that showed notable growth include the Philippines (USD 136,000), Colombia (USD 108,000), and Brazil (USD 99,000).
 
-In contrast, Portugal saw the strongest growth in 2023, with an increase of USD 180,000 compared to 2022. Other countries that showed notable growth include the Philippines (USD 136,000), Colombia (USD 108,000), and Brazil (USD 99,000).
-
-2. Category Analysis: Outdoor Types of Plant had been the best selling product type since 2022 to 2024. While in terms of product volume, a total of 555,664 units were sold in 2023, slightly up from the 538,609 units sold in 2022.
+2. Category and Quantity Analysis: Outdoor plants have been the best-selling product type from 2022 to 2024, indicating a higher turnover for this category. The company should closely monitor inventory levels to ensure it meets customer demand. Additionally, it's crucial to identify the factors driving the popularity of outdoor products and apply those insights to other product categories.
+   In terms of product volume, a total of 555,664 units were sold in 2023, representing a slight increase from the 538,609 units sold in 2022.
 
 
 ### Conclusion
