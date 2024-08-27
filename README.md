@@ -17,6 +17,24 @@ This Tableau dashboard analyzes the global sales performance of Plant DTS. The o
 Explore the interactive dashboard [Here](https://public.tableau.com/app/profile/chawl.c/viz/SalesAnalysisforPlantDTS/Dashboard1?publish=yes)
 ![image](https://github.com/user-attachments/assets/5e91f05b-5be6-4567-b484-2139711e2d63)
 
+### Dashboard Components
+The analysis is based on 3 datasets which combined into one:
+
+1. Messages Dataset:
+Total Sales YTD:
+Sales Diff:
+Total PYTD Sales:
+Avg Profit Margin:
+% of Total Quantity Sold by Product:
+Quantity Sold:
+Unit Price (USD):
+Profit Margin: 
+Date: Date of message pushed live
+Category: Type of message (Product, Campaign, Promo)
+Total Recipient: Number of followers who received the message
+Open Count: Number of recipients who opened the message
+Clickthrough: Number of recipients who clicked on the image or link
+Content Format: Executed content type (Static, Carousel, Video, Text Bubble)
 
 
 ### Data Insights
