@@ -21,20 +21,15 @@ Explore the interactive dashboard [Here](https://public.tableau.com/app/profile/
 The analysis is based on 3 datasets which combined into one:
 
 1. Messages Dataset:
-Total Sales YTD:
-Sales Diff:
-Total PYTD Sales:
-Avg Profit Margin:
-% of Total Quantity Sold by Product:
-Quantity Sold:
-Unit Price (USD):
-Profit Margin: 
-Date: Date of message pushed live
-Category: Type of message (Product, Campaign, Promo)
-Total Recipient: Number of followers who received the message
-Open Count: Number of recipients who opened the message
-Clickthrough: Number of recipients who clicked on the image or link
-Content Format: Executed content type (Static, Carousel, Video, Text Bubble)
+Total Sales YTD: Total Sales Year To Date <br>
+Sales Diff: The difference in sales between the current year and the previous year<br>
+Total PYTD Sales: Total Sales for Past Year to Date<br>
+Avg Profit Margin: Average profit margin including all types of product categories<br>
+% of Total Quantity Sold by Product: The proportion of each product sold in the selected year<br>
+Quantity Sold: The total quantity of products sold across different countries<br>
+Unit Price (USD): The average unit price sold given each country has a different markup <br>
+Profit Margin: The average profit margin of each product <br>
+
 
 
 ### Data Insights
