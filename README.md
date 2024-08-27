@@ -18,7 +18,7 @@ Explore the interactive dashboard [Here](https://public.tableau.com/app/profile/
 ![image](https://github.com/user-attachments/assets/5e91f05b-5be6-4567-b484-2139711e2d63)
 
 ### Dashboard Components
-The analysis is based on 3 datasets which combined into one:
+The analysis is based on three datasets, which were combined into one:
 
 1. Messages Dataset:
 Total Sales YTD: Total Sales Year To Date <br>
