@@ -20,15 +20,15 @@ Explore the interactive dashboard [Here](https://public.tableau.com/app/profile/
 ### Dashboard Components
 The analysis is based on three datasets, which were combined into one:
 
-1. Messages Dataset:
-Total Sales YTD: Total Sales Year To Date <br>
-Sales Diff: The difference in sales between the current year and the previous year<br>
-Total PYTD Sales: Total Sales for Past Year to Date<br>
-Avg Profit Margin: Average profit margin including all types of product categories<br>
-% of Total Quantity Sold by Product: The proportion of each product sold in the selected year<br>
-Quantity Sold: The total quantity of products sold across different countries<br>
-Unit Price (USD): The average unit price sold given each country has a different markup <br>
-Profit Margin: The average profit margin of each product <br>
+
+- Total Sales YTD: Total Sales Year To Date <br>
+- Sales Diff: The difference in sales between the current year and the previous year<br>
+- Total PYTD Sales: Total Sales for Past Year to Date<br>
+- Avg Profit Margin: Average profit margin including all types of product categories<br>
+- % of Total Quantity Sold by Product: The proportion of each product sold in the selected year<br>
+- Quantity Sold: The total quantity of products sold across different countries<br>
+- Unit Price (USD): The average unit price sold given each country has a different markup <br>
+- Profit Margin: The average profit margin of each product <br>
 
 
 
